@@ -8,15 +8,15 @@
 
 <div align="center">
   <a href="https://github.com/giuvilhagra">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=giuvilhagra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giuvilhagra&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=giuvilhagra&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giuvilhagra&layout=compact&langs_count=7&theme=nightowl"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="giu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="giu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="giu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="giu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/beb2ca9b4576a4ca7b9d9878ff03b249.gif">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/d4ad013ef8051cd39c1bda036f85e4b7.gif">
 </div>
 
 ##
