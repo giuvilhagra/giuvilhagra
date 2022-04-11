@@ -2,7 +2,7 @@
 
 - 🔭 cursando faculdade de Jogos Digitais
 - 🌱 estudando HTML, CSS & JavaScript
-- 👯 interesse em Python e PHP
+- 👯 interesse em Python, PHP & Ruby
 - 🤔 fazendo os cursos da ONE & Rocketseat
 - 📫 ela/dela.
 
