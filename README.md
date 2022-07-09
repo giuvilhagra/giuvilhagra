@@ -24,7 +24,6 @@
 <div> 
   <a href="https://www.linkedin.com/in/giulia-vilhagra-580090213/" target="_blank" rel="external"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="external"></a> 
   <a href = "mailto:giuvilhagra@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" rel="external"></a>
-  <a href="https://twitter.com/gojodev" target="_blank" rel="external"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> 
 
  ![snake gif](https://github.com/giuvilhagra/giuvilhagra/blob/output/github-contribution-grid-snake.gif)
 
